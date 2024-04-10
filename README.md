@@ -23,7 +23,7 @@ cd Pagína spotify antiga
 ```
 
 ## Licença
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/LucasDeMoura43/Calculadora-de-Notas-Semestrais/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/LucasDeMoura43/Site-Spotify-clone-/blob/main/LICENSE) 
   
 
 
